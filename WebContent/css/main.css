@@ -1,0 +1,75 @@
+
+.colored-line {
+  background: #0ebd27;
+}
+.colored-text {
+  color: #0ebd27 !important;
+}
+.color-bg {
+  background: #0ebd27;
+}
+a {
+  color: #0ebd27;
+}
+.non-sticky .navbar-nav > li > a:hover {
+  color: #0ebd27;
+}
+.standard-button {
+  background: #0ebd27;
+  color: #ffffff;
+}
+.standard-button:hover {
+  color: #ffffff;
+  background: #01995c;
+}
+.secondary-button:hover {
+  color: #0ebd27;
+  border-color: #0ebd27;
+}
+.sticky-navigation .main-navigation .current a {
+  color: #0ebd27 !important;
+}
+.sticky-navigation .navbar-nav > li > a:hover {
+  color: #0ebd27;
+}
+.feature-list-1 li .icon-container {
+  background: #0ebd27;
+}
+.feature-list-2 li .icon-container {
+  background: #0ebd27;
+}
+.feature .icon {
+  color: #0ebd27;
+}
+.vertical-registration-form .input-box {
+  border-top: 1px solid rgba(0, 171, 102, 0.4);
+  border-bottom: 1px solid rgba(0, 171, 102, 0.4);
+  border-right: 1px solid rgba(0, 171, 102, 0.4);
+  border-left: 3px solid #0ebd27;
+}
+.vertical-registration-form .input-box:focus,
+.vertical-registration-form .input-box:active {
+  border-color: #0ebd27;
+}
+.subscription-form .input-box:focus,
+.subscription-form .input-box:active {
+  border-left: 3px solid #0ebd27 !important;
+}
+.input-box:active,
+.textarea-box:active,
+.input-box:focus,
+.textarea-box:focus {
+  border-left: 3px solid #0ebd27 !important;
+}
+.screenshots .owl-theme .owl-controls .owl-page span {
+  background: #0ebd27;
+}
+.contact-link {
+  color: #0ebd27;
+}
+.contact-link:hover {
+  color: #01995c;
+}
+.social-icons li a:hover {
+  color: #0ebd27;
+}
